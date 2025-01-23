@@ -15,7 +15,7 @@ tags:
     description: Everything about your quantum service code and circuits
 paths:
 
-  /circuit/maxcut3qubitsQASM:
+  /circuit/myFavouriteCircuit:
     post:
       tags:
         - quantum_code
